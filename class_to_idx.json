@@ -1,0 +1,11 @@
+{
+  "class_to_idx": {
+    "coral": 0,
+    "gardenia": 1,
+    "glossy": 2,
+    "hibiscus": 3,
+    "plumeria": 4,
+    "trumpetbush": 5,
+    "ylang": 6
+  }
+}
